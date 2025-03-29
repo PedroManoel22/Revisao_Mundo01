@@ -1,9 +1,9 @@
 # Revisao_Mundo01
  Revisão de todos os exercícios do mundo01 do professor Guanabara
  
- *Ex002: ok
- *Ex003: ok
- *Ex004: ok
+ 1.Ex002: ok
+ 2.Ex003: ok
+ 3.Ex004: ok
  Ex005: ok
  Ex006: ok
  Ex007: ok
