@@ -2,6 +2,7 @@
  Revisão de todos os exercícios do mundo01 do professor Guanabara
  
  Ex002: ok
+
  Ex003: ok
  Ex004: ok
  Ex005: ok
