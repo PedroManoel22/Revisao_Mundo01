@@ -8,4 +8,3 @@ if s1 < s2 + s3 and s2 < s1 + s3 and s3 < s2 + s1:
     print('Os segmentos acima PODEM FORMAR UM TRIÂNGULO!')
 else:
     print('Os segmentos acima NÃO PODEM FORMAR UM TRIÂNGULO!')
-
