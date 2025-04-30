@@ -13,7 +13,14 @@
 7. Desenvolva um programa que leia as duas notas de um aluno. Calcule e mostre sua média.
 8. Escreva um programa que leia um valor em metros e o exiba convertido em centímetros.
 9. Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
-10. Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar. (considere US$1.00 = R$3.27)
+10. Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar. (considere US$1.00 = R$3.27).
+11. Faça um programa que leia a largura e altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m².
+12. Faça um algoritimo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+13. Faça um algoritimo que leia o salário de um funcionário e mostre seu novo salário, com 15% de desconto.
+14. Escreva um programa que converta uma temperatura digitada em °C e converta para °F.
+15. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado.Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por km rodado.
+16. 
+    
 
 
 
